@@ -85,11 +85,13 @@
 
 ## 三、最最关心的面试指南 ⬇️
 
+[面试准备手册-数据平台](https://bytedance.feishu.cn/docs/doccn6x6k4r5Tj9nHQ46nhqevVe) 
+
 [数据分析-电商方向｜面试准备指南](https://bytedance.feishu.cn/docs/doccnMrDUP7TxJrj3upDqnEwPvf) 
 
 [数据分析-直播方向｜面试准备指南](https://bytedance.feishu.cn/docs/doccngaKQUWmfpkrjB2laVaOr4c) 
 
-[面试准备手册-数据平台](https://bytedance.feishu.cn/docs/doccn6x6k4r5Tj9nHQ46nhqevVe) 
+
 
 
 
@@ -102,5 +104,7 @@
 
 **📮简历投递邮箱 yuanyiming.jessica@bytedance.com** 
 
-​                                      **📌我的内推码：U347J9W  ☎️wx：18861123700**
+ **📌我的内推码：U347J9W**
+ 
+ **☎️wx：18861123700**
 
